@@ -1,4 +1,5 @@
-1.	Anastasia Horne, CWID: 10867499
+NOTE: This readme cannot be executed without the complete zipped project file.
+1.	Anastasia Horne
 
 2.	The program is run in Python (with a PyTorch Dependency) using a ‘.ipynb’  notebook. 
     a.	A list of all the dependencies and their versions can be found in “environment.yml”
